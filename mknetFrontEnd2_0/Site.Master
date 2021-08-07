@@ -66,7 +66,7 @@
                 <div style="background-color: black">
                     <p>&nbsp;</p>
                     <p style="color: white; text-align: center">Copyright &copy; <%: DateTime.Now.Year %>, <a style="color: white" href="https://github.com/MSS00">Mrkod's Software Solutions</a></p>
-                    <p style="color: white; text-align: center"><a style="color: white" href="https://raw.githubusercontent.com/MSS00/mknet/master/LICENSE">Licensed under BSD 2-Clause License</a></p>
+                    <p style="color: white; text-align: center"><a style="color: white" href="../LICENSE">Licensed under BSD 2-Clause License</a></p>
                     <p style="color: white; text-align: center">version 2.0</p>
                     <p>&nbsp;</p>
                 </div>
