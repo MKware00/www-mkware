@@ -7,7 +7,7 @@
 
     <article>
         <p>        
-            This site is built from Visual Studio 2013 .NET Framework 4's template.<br>
+            This site was built from Visual Studio 2013 .NET Framework 4's template.<br>
             <a href="https://raw.githubusercontent.com/MSS00/mknet/master/LICENSE">Licensed under BSD 2-Clause License</a> 
         </p>
 
