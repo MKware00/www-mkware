@@ -8,7 +8,7 @@
     <article>
         <p>        
             This site is built from Visual Studio 2013 .NET Framework 4's template.<br>
-            <a href="LICENSE.txt">Licensed under BSD 2-Clause License</a> 
+            <a href="https://raw.githubusercontent.com/MSS00/mknet/master/LICENSE">Licensed under BSD 2-Clause License</a> 
         </p>
 
         <p>        
@@ -23,7 +23,7 @@
         <h3>Links</h3>
         <ul>
             <li><a runat="server" href="https://github.com/MSS00">Github</a></li>
-            <li><a runat="server" href="~/Contact">Contact</a></li>
+            <li><a runat="server" href="../Contact.aspx">Contact</a></li>
         </ul>
     </aside>
 </asp:Content>

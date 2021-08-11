@@ -29,9 +29,9 @@
             <div class="float-right">
                 <nav>
                     <ul id="menu">
-                        <li><a style="color: #000" runat="server" href="~/">Home</a></li>
-                        <li><a style="color: #000"  runat="server" href="~/About">About</a></li>
-                        <li><a  style="color: #000" runat="server" href="~/Contact">Contact</a></li>
+                        <li><a style="color: #000" runat="server" href="../">Home</a></li>
+                        <li><a style="color: #000"  runat="server" href="../About.aspx">About</a></li>
+                        <li><a  style="color: #000" runat="server" href="../Contact.aspx">Contact</a></li>
                     </ul>
                 </nav>
             </div>
@@ -47,7 +47,7 @@
         <div class="content-wrapper">
             <div class="float-left">
                 <p>&copy; <%: DateTime.Now.Year %>, Mrkod's Software Solutions<br>
-                    <a href="LICENSE.txt">Licensed under BSD 2-Clause License</a> 
+                    <a href="https://raw.githubusercontent.com/MSS00/mknet/master/LICENSE">Licensed under BSD 2-Clause License</a> 
                 </p>
             </div>
         </div>
