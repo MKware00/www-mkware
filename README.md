@@ -8,4 +8,4 @@ Current version: 2.1
 
 ![alt text](https://i.imgur.com/0ukTVB1.png "MSS Logo")
 
-Currently, Github Pages can't host ASP.NET websites, so there are no public instance right now.
+Latest link: https://mknet.somee.com/
