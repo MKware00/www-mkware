@@ -27,7 +27,7 @@
         </li>
         <li class="one">
             <h5>ONRM - try faking it&#39;s results,&nbsp;kid</h5>
-            Basic number randomizer, that made on Silverlight. But you can&#39;t fake it&#39;s results, unless you edit it&#39;s source code
+            Basic number randomizer, that made on Silverlight. But you can&#39;t fake it&#39;s results, unless you edit it&#39;s source code.
             <a href="https://github.com/MSS00/ONRM">Learn more…</a>
         </li>
     </ol>
