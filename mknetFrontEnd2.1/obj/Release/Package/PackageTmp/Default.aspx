@@ -7,7 +7,7 @@
                 <h1>mrkod.net</h1>
             </hgroup>
             <p style="color: #7e7e7e">
-                Welcome to mrkod&#39;s <s>landing</s> page!
+                Homeland for all mrkod's projects
             </p>
         </div>
     </section>
