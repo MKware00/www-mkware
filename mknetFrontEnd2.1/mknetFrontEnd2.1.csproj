@@ -163,10 +163,12 @@
     <Content Include="Images\accent.png" />
     <Content Include="Images\bullet.png" />
     <Content Include="Images\heroAccent.png" />
-	<Content Include="Images\largeBullet.png" />
+    <Content Include="Images\largeBullet.png" />
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="Images\plashque.png" />
+    <Content Include="Images\plashque2.png" />
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\MSS.pubxml" />
     <None Include="Scripts\jquery-1.8.2.intellisense.js" />
@@ -241,7 +243,6 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Account\Web.config" />
     <Content Include="Site.Master" />
   </ItemGroup>
   <PropertyGroup>

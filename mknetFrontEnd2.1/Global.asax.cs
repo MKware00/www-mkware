@@ -13,7 +13,6 @@ namespace mknetFrontEnd2._1
         void Application_Start(object sender, EventArgs e)
         {
             // Code that runs on application startup
-            AuthConfig.RegisterOpenAuth();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
         }
 
