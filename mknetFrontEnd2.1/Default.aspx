@@ -16,6 +16,11 @@
     <h3>Recents:</h3>
     <ol class="round">
         <li class="one">
+            <h5>cringfetch v. 1.1 - now colorful!</h5>
+            Not the best way to make it colorful, but hey - it works!
+            <a href="https://github.com/MSS00/cringfetch/">Learn more…</a>
+        </li>
+        <li class="one">
             <h5>MSS Download Center has been opened</h5>
             All binaries of my projects now will be hosted here.
             <a href="https://mknet.somee.com/dc/">Learn more…</a>
@@ -24,11 +29,6 @@
             <h5>mrkod.net front-end version 2.1 finally released</h5>
             ASP.NET engine for fancy C# scripts, fresh front-end.
             <a href="https://github.com/MSS00/mknet/">Learn more…</a>
-        </li>
-        <li class="one">
-            <h5>cringfetch - As seen on Linux!</h5>
-            Yes, it is what you thinking about, neofetch, but on Windows!
-            <a href="https://github.com/MSS00/cringfetch/">Learn more…</a>
         </li>
     </ol>
 </asp:Content>
