@@ -8,4 +8,4 @@ Current version: 2.2.0
 
 ![alt text](https://i.imgur.com/0ukTVB1.png "MSS Logo")
 
-Latest link: https://mknet.somee.com/
+Latest link: https://mrkod.net.eu.org/
