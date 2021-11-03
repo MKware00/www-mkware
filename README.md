@@ -6,6 +6,6 @@
 
 Current version: 2.2.0
 
-![alt text](https://i.imgur.com/0ukTVB1.png "MSS Logo")
+![alt text](https://i.imgur.com/QRtmWdC.png "mrkod.net logo")
 
 Latest link: https://mrkod.net.eu.org/
