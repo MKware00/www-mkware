@@ -47,7 +47,7 @@
     <footer>
         <div class="content-wrapper">
             <div class="float-left">
-                <p>&copy; <%: DateTime.Now.Year %>, Mrkod's Software Solutions<br>
+                <p>&copy; <%: DateTime.Now.Year %>, MKware<br>
                     All rights reserved.<br>
                     version 2.2.0
                 </p>

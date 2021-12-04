@@ -8,11 +8,11 @@
     <article>
         <p>        
             This site was built from Visual Studio 2013 .NET Framework 4's template.<br>
-            <a href="https://raw.githubusercontent.com/MSS00/mknet/master/LICENSE">Licensed under BSD 2-Clause License</a> 
+            <a href="https://raw.githubusercontent.com/MKware00/mknet/master/LICENSE">Licensed under BSD 2-Clause License</a> 
         </p>
 
         <p>        
-            I've started making software as Mrkod's Software Solutions from 2020.<br>
+            I've started making software as MKware (Mrkod's Software Solutions at that time) from 2020.<br>
             I'm not chasing any popularity, I'm doing it for fun.<br>
             Every my piece of software is open source and available at my Github page.
         </p>
@@ -22,7 +22,7 @@
     <aside>
         <h3>Links</h3>
         <ul>
-            <li><a runat="server" href="https://github.com/MSS00">Github</a></li>
+            <li><a runat="server" href="https://github.com/MKware00">Github</a></li>
             <li><a runat="server" href="../Contact.aspx">Contact</a></li>
         </ul>
     </aside>
