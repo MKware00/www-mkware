@@ -16,19 +16,17 @@
     <h3>Recents:</h3>
     <ol class="round">
         <li class="one">
+            <h5>cringfetch v. 1.2 - like a real neofetch</h5>
+            Finally I managed to add ASCII art to cringfetch, so it looks like more neofetch. <a href="https://github.com/MKware00/cringfetch">Check out...</a>
+        </li>
+        <li class="one">
             <h5>MSS is MKware now!</h5>
             The old name was too long, even acronym didn't solved it. Everything remains the same, except it's MKware now.
         </li>
         <li class="one">
-            <h5>BEWARE OF MSS FAKES!!!</h5>
+            <h5>BEWARE OF MKware FAKES!!!</h5>
             I already got 1 fake account at Telegram <a href="https://mknet.somee.com/articleImages/fake.PNG">[pic]</a>. Remember: The only
 	    way to contact me is my e-mail that's located on "Contact" page!
-        </li>
-        <li class="one">
-            <h5>MSS Github repos were mirrored to my local Gitea</h5>
-            All of MSS' Github repos were mirrored to my local Gitea instance
-            and will be synced with all commits to any repo.
-            Who knows, maybe it would become public some day.
         </li>
     </ol>
 </asp:Content>
