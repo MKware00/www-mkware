@@ -11,7 +11,7 @@
             <h3>Email:</h3>
         </header>
         <p>
-            <span><a href="mailto:mssceo@tutanota.de">mssceo@tutanota.de</a></span>
+            <span><a href="mailto:admin@mkware.eu.org">admin@mkware.eu.org</a></span>
         </p>
     </section>
 
