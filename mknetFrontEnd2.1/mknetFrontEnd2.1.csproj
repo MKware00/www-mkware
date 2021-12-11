@@ -103,6 +103,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Articles.aspx" />
     <Content Include="About.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\Site.css" />
@@ -160,6 +161,7 @@
     <Content Include="Content\themes\base\minified\jquery.ui.slider.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
+    <Content Include="Images\logo.png" />
     <Content Include="Images\accent.png" />
     <Content Include="Images\bullet.png" />
     <Content Include="Images\heroAccent.png" />
@@ -191,6 +193,13 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Articles.aspx.cs">
+      <DependentUpon>Articles.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Articles.aspx.designer.cs">
+      <DependentUpon>Articles.aspx</DependentUpon>
+    </Compile>
     <Compile Include="About.aspx.cs">
       <DependentUpon>About.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

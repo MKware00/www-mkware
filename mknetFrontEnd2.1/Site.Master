@@ -3,8 +3,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head runat="server">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300&display=swap" rel="stylesheet"> 
     <meta charset="utf-8" />
-    <title><%: Page.Title %> - mrkod.net</title>
+    <title><%: Page.Title %> - MKware</title>
     <link href="~/Content/Site.css" rel="stylesheet" /> 
     <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
     <asp:PlaceHolder runat="server">        
@@ -24,18 +27,22 @@
     <header>
         <div class="content-wrapper">
             <div class="float-left">
-                <p style="color: #000" class="site-title"><a href="../">mrkod.net</a></p>
+                
             </div>
             <div class="float-right">
                 <nav>
                     <ul id="menu">
                         <li><a style="color: #000" runat="server" href="../">Home</a></li>
+                        <li><a style="color: #000" runat="server" href="../Articles.aspx">Articles</a></li>
                         <li><a style="color: #000"  runat="server" href="../About.aspx">About</a></li>
                         <li><a style="color: #000" runat="server" href="../Contact.aspx">Contact</a></li>
                         <li><a style="color: #000" runat="server" href="../dc/">Downloads</a></li>
                     </ul>
                 </nav>
             </div>
+            <p style="color: #000" class="site-title"><a href="../">
+                <asp:Image ID="Image1" runat="server" Height="30px" Width="30px" src="../Images/logo.png"/>
+            </a></p>
         </div>
     </header>
     <div id="body">
@@ -49,7 +56,7 @@
             <div class="float-left">
                 <p>&copy; <%: DateTime.Now.Year %>, MKware<br>
                     All rights reserved.<br>
-                    version 2.2.0
+                    version 2.2.1
                 </p>
             </div>
         </div>
