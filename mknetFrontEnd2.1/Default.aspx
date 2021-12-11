@@ -4,11 +4,10 @@
     <section class="featured">
         <div style="background-color: #000" class="content-wrapper">
             <hgroup class="title">
-                <h1>mrkod.net</h1>
+                <h1>MKware</h1>
             </hgroup>
             <p style="color: #7e7e7e">
-                Homeland for all mrkod's projects
-            </p>
+                Keeps making software.</p>
         </div>
     </section>
 </asp:Content>

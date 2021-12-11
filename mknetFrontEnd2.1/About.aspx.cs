@@ -9,9 +9,6 @@ namespace mknetFrontEnd2._1
 {
     public partial class About : Page
     {
-        protected void Page_Load(object sender, EventArgs e)
-        {
-
-        }
+        
     }
 }
