@@ -15,7 +15,7 @@
     <h3>Recents:</h3>
     <ol class="round">
         <li class="one">
-            <h5>ONRM would be under maintenance for some time</h5>
+            <h5>ONRM will be under maintenance for some time</h5>
             Because .csproj file of ONRM's source went missing, it can't be compiled from source. ONRM will be available as soon as I rewrite whole program or .csproj file.
         </li>
         <li class="one">
