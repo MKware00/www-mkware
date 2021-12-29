@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace mknetFrontEnd2._1
 {
-    public partial class Articles : Page
+    public partial class fggjdh : Page
     {
         
     }

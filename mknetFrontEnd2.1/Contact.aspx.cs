@@ -7,11 +7,8 @@ using System.Web.UI.WebControls;
 
 namespace mknetFrontEnd2._1
 {
-    public partial class Contact : Page
+    public partial class fggjdh : Page
     {
-        protected void Page_Load(object sender, EventArgs e)
-        {
-
-        }
+        
     }
 }

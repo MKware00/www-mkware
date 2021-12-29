@@ -10,6 +10,6 @@
 namespace mknetFrontEnd2._1 {
     
     
-    public partial class About {
+    public partial class Articles {
     }
 }

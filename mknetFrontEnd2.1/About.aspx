@@ -5,6 +5,14 @@
         <h1><%: Title %></h1>
     </hgroup>
 
+    <aside>
+        <h3>Links</h3>
+        <ul>
+            <li><a runat="server" href="https://github.com/MKware00">Github</a></li>
+            <li><a runat="server" href="../Contact.aspx">Contact</a></li>
+            <li><a runat="server" href="../Copyrights.aspx">Additional copyright info</a></li>
+        </ul>
+    </aside>
     <article>
         <p>        
             This site was built from Visual Studio 2013 .NET Framework 4's template.<br>
@@ -16,14 +24,5 @@
             I'm not chasing any popularity, I'm doing it for fun.<br>
             Every my piece of software is open source and available at my Github page.
         </p>
-
     </article>
-
-    <aside>
-        <h3>Links</h3>
-        <ul>
-            <li><a runat="server" href="https://github.com/MKware00">Github</a></li>
-            <li><a runat="server" href="../Contact.aspx">Contact</a></li>
-        </ul>
-    </aside>
-</asp:Content>
+    </asp:Content>
