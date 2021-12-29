@@ -32,7 +32,6 @@
                         <li><a style="color: #000" runat="server" href="~/">Home</a></li>
                         <li><a style="color: #000" runat="server" href="~/Articles.aspx">Articles</a></li>
                         <li><a style="color: #000"  runat="server" href="~/About.aspx">About</a></li>
-                        <li><a style="color: #000" runat="server" href="~/Contact.aspx">Contact</a></li>
                         <li><a style="color: #000" runat="server" href="~/dc/">Downloads</a></li>
                     </ul>
                 </nav>

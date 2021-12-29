@@ -9,7 +9,7 @@
         <h3>Links</h3>
         <ul>
             <li><a runat="server" href="https://github.com/MKware00">Github</a></li>
-            <li><a runat="server" href="../Contact.aspx">Contact</a></li>
+            <li><a href="mailto:admin@mkware.eu.org">Contact</a></li>
             <li><a runat="server" href="../Copyrights.aspx">Additional copyright info</a></li>
         </ul>
     </aside>
