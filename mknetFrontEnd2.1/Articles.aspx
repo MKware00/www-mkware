@@ -5,7 +5,7 @@
         <h1><%: Title %></h1>
     </hgroup>   
 
-    <div class="article">
+    <div class="artikle">
         <div class="article-details">
              <div>
                  <img src="Images/user.png" style="padding-top: 0px;">
@@ -13,7 +13,7 @@
              </div>
             <div>
                  <img src="Images/calendar.png" style="padding-top: 0px;">
-                 <span style="display: inline-block;position: relative;bottom: 9px;">12/29/21 11:13 AM (PST)</span>
+                 <span style="display: inline-block;position: relative;bottom: 9px;">12/28/21 11:14 AM (PST)</span>
              </div>
         </div>
         <div class="article-tldr">

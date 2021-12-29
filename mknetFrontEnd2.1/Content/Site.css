@@ -14,23 +14,6 @@ body {
     padding: 0;
 }
 
-.article {
-    border: thin solid #d1d1d1;
-    height: 130px;
-}
-.article-details {
-    margin-left: 15px;
-    width: 233px;
-    display: inline-block;
-    height: 91px;
-}
-
-.article-tldr {
-    display: inline-block;
-    height: 92px;
-    width: 690px;
-}
-
 a {
     color: #333;
     outline: none;
@@ -452,6 +435,24 @@ fieldset {
     color: #e80c4d;
     font-weight: bold;
 }
+
+.artikle {
+    border: thin solid #d1d1d1;
+    height: 130px;
+}
+.article-details {
+    margin-left: 15px;
+    width: 233px;
+    display: inline-block;
+    height: 91px;
+}
+
+.article-tldr {
+    display: inline-block;
+    height: 92px;
+    width: 690px;
+}
+
 
 .field-validation-valid {
     display: none;
