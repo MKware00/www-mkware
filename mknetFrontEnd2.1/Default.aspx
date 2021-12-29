@@ -22,9 +22,11 @@
             <h5>ONRM will be under maintenance for some time</h5>
             Because .csproj file of ONRM's source went missing, it can't be compiled from source. ONRM will be available as soon as I rewrite whole program or .csproj file.
         </li>
+
         <li class="one">
             <h5>Renaming is fully done</h5>
             Process of renaming from MSS to MKware is complete. The renaming didn't touch old projects.
         </li>
-            </ol>
+
+    </ol>
 </asp:Content>
