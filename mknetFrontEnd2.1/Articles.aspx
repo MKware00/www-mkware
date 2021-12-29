@@ -3,10 +3,24 @@
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
         <h1><%: Title %></h1>
-    </hgroup>
+    </hgroup>   
 
-   
-    <asp:Label ID="Label1" runat="server" Text="Label" CssClass="site-title">Work in progress</asp:Label>
+    <div class="artikle">
+        <div class="article-details">
+             <div>
+                 <img src="Images/user.png" style="padding-top: 0px;">
+                 <span style="display: inline-block;position: relative;bottom: 9px;">MKware</span>
+             </div>
+            <div>
+                 <img src="Images/calendar.png" style="padding-top: 0px;">
+                 <span style="display: inline-block;position: relative;bottom: 9px;">12/28/21 11:14 AM (PST)</span>
+             </div>
+        </div>
+        <div class="article-tldr">
+            <h1 style="margin-top: 10px;">Articles!</h1>
+            <span>Now are companions to "Recents".</span>
+            <h6 style="text-align:right;"><a runat="server" href="~/articles/12-28-2021_11-14AM.aspx">Read more...</a></h6>
+        </div>
+    </div>
 
-   
 </asp:Content>

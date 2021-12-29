@@ -15,16 +15,18 @@
     <h3>Recents:</h3>
     <ol class="round">
         <li class="one">
+            <h5>Articles!</h5>
+            Now are companions to "Recents". <a runat="server" href="~/articles/12-28-2021_11-14AM.aspx">Read more</a>
+        </li>
+        <li class="one">
             <h5>ONRM will be under maintenance for some time</h5>
             Because .csproj file of ONRM's source went missing, it can't be compiled from source. ONRM will be available as soon as I rewrite whole program or .csproj file.
         </li>
+
         <li class="one">
             <h5>Renaming is fully done</h5>
             Process of renaming from MSS to MKware is complete. The renaming didn't touch old projects.
         </li>
-        <li class="one">
-            <h5>cringfetch v. 1.2 - like a real neofetch</h5>
-            Finally I managed to add ASCII art to cringfetch, so it looks like more neofetch. <a href="https://github.com/MKware00/cringfetch">Check out...</a>
-        </li>
-            </ol>
+
+    </ol>
 </asp:Content>
