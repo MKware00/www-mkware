@@ -20,7 +20,7 @@
         </p>
 
         <p>        
-            I've started making software as MKware (Mrkod's Software Solutions at that time) from 2020.<br>
+            I've started making software as MKware (Mrkod's Software Solutions at that time) since 2020.<br>
             I'm not chasing any popularity, I'm doing it for fun.<br>
             Every my piece of software is open source and available at my Github page.
         </p>
