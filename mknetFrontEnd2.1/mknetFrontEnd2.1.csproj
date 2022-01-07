@@ -103,7 +103,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="articles\01-07-2022_1-26AM.aspx" />
     <Content Include="articles\12-28-2021_11-14AM.aspx" />
+    <Content Include="articles\imgs\01-07-2022_1-26AM.png" />
     <Content Include="Copyrights.aspx" />
     <Content Include="Articles.aspx" />
     <Content Include="About.aspx" />
@@ -197,6 +199,13 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="articles\01-07-2022_1-26AM.aspx.cs">
+      <DependentUpon>01-07-2022_1-26AM.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="articles\01-07-2022_1-26AM.aspx.designer.cs">
+      <DependentUpon>01-07-2022_1-26AM.aspx</DependentUpon>
+    </Compile>
     <Compile Include="articles\12-28-2021_11-14AM.aspx.cs">
       <DependentUpon>12-28-2021_11-14AM.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
