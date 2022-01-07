@@ -439,6 +439,7 @@ fieldset {
 .artikle {
     border: thin solid #d1d1d1;
     height: 130px;
+    margin-top: 20px;
 }
 .article-details {
     margin-left: 15px;
