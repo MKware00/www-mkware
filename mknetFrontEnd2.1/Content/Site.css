@@ -109,7 +109,7 @@ h5, h6 {
         padding-top: 30px;
     }
 
-    
+
 
 header .content-wrapper {
     padding-top: 20px; 
@@ -436,24 +436,11 @@ fieldset {
     font-weight: bold;
 }
 
-.artikle {
-    border: thin solid #d1d1d1;
-    height: 130px;
-    margin-top: 20px;
+.article-date {
+    color: #a2a2a2;
+    text-align: right;
+    padding-left: 30px;
 }
-.article-details {
-    margin-left: 15px;
-    width: 233px;
-    display: inline-block;
-    height: 91px;
-}
-
-.article-tldr {
-    display: inline-block;
-    height: 92px;
-    width: 690px;
-}
-
 
 .field-validation-valid {
     display: none;
