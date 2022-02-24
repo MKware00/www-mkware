@@ -439,7 +439,7 @@ fieldset {
 .article-date {
     color: #a2a2a2;
     text-align: right;
-    padding-left: 30px;
+    /*padding-left: 50px;*/
 }
 
 .field-validation-valid {
